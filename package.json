@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Austinfr/Aus-Chal-20-React/issues"
   },
-  "homepage": "https://github.com/Austinfr/Aus-Chal-20-React#readme",
+  "homepage": "https://austinfr.github.io/Aus-Chal-20-React",
   "dependencies": {
     "react": "^18.2.0",
     "react-router-dom": "^6.11.0"
