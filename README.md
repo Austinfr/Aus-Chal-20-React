@@ -6,20 +6,20 @@ Showing off my portfolio of the work and projects that I have done and that I ca
 
 ## TOC/Links
 
-- [Installation](#installation)
+- [Goal](#goal)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Testing](#testing)
 - [License](#license)
 - [Questions](#questions)
 
-## Installation
+## Goal
 
-delete this
+To show understand of react and react dom in a portfolio to create a sample website that will house previous projects
 
 ## Usage
 
-Visit the website at (put link here) and play around with the ui
+Visit the website at [this link](https://austinfr.github.io/Aus-Chal-20-React/) and play around with the ui
 
 ## Contribution
 
