@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aus-Chal-20-React/static/css/main.13a276f1.css",
+    "main.js": "/Aus-Chal-20-React/static/js/main.21f6c4d4.js",
+    "index.html": "/Aus-Chal-20-React/index.html",
+    "main.13a276f1.css.map": "/Aus-Chal-20-React/static/css/main.13a276f1.css.map",
+    "main.21f6c4d4.js.map": "/Aus-Chal-20-React/static/js/main.21f6c4d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a276f1.css",
+    "static/js/main.21f6c4d4.js"
+  ]
+}
