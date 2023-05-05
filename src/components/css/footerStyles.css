@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer a {
+    opacity: 60%;;
+    text-decoration: none;
+}
+
+footer a:hover {
+    opacity: 100%;
+}
+
+footer a,
+footer a:visited,
+footer a:focus {
+    color: #333;
+}
