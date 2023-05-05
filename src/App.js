@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
@@ -11,7 +11,7 @@ import Resume from './components/pages/Resume';
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
         <Header />
         <Navigation />
         <Routes>
@@ -22,7 +22,7 @@ function App() {
         <Route path="/resume" element={<Resume/>} />
         </Routes>
         <Footer />
-    </Router>
+    </BrowserRouter>
   );
 }
 
